@@ -1,5 +1,4 @@
 # cursoSwift
-Notas en código sobre el curso de Swift
 
 Aqui publicaré las notas del curso de Swift para que los que no puedan asistir o tengan dudas.
 Las hice con mi formato, perdón si no todos las comprenden. Me pueden contactar para cualquier duda (no prometo saber la respuesta D:)
