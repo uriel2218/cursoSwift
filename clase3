@@ -1,0 +1,61 @@
+/* Notas de la clase correspondiente al 27 de Octubre del 2022
+
+Notas-código elaboradas por Uriel Solalíndez Aguilar
+
+GNU General Public License v3.0
+
+2022
+
+*/
+
+import UIKit
+
+// Remover elementos de un índice
+var wola = "Hello, playground"
+
+wola.remove(at: wola.index(before:wola.endIndex))
+print(wola)
+
+/*Remover una serie de caracteres
+var wola2 = "Hello, playground"
+
+wola2.remove(contentsOf: "Hello", at:  wola2.index)
+print(wola)
+*/
+
+//Comparacion de cadenas
+let frasesitas = "Todos extrañamos a One Direction"
+let mismaFrasesita = "Todos extrañamos a One Direction"
+
+if frasesitas == mismaFrasesita {
+    print("Estas dos frases son lo mismo y duelen igual xd")
+}
+else{
+    print("No son las mismas")
+}
+
+//Operadores de asignación
+let b = 10
+var a = 5
+a = b
+print(b)
+print(a)
+
+//Operador restante
+
+var a2 = 9 % 4
+print(a2)
+
+//Operador de asignación compuesta
+
+//suma
+var a3 = 5
+a3 -= 2
+print(a3)
+
+//resta
+var a4 = 5
+a4 += 2
+print(a4)
+
+//                             ---  FIN DE LAS NOTAS ---
